@@ -25,7 +25,7 @@ Este repositorio fue creado para proyectos personales utilizando Microsoft Excel
 
 ## Cómo utilizar este repositorio
 
-1. Descarga o clona este repositorio en tu máquina local.
+1. Descarga este repositorio en tu máquina local si es necesario.
 2. Explora los archivos de los proyectos en excel que se encuentran en las carpetas correspondientes.
 4. Lee la documentación incluida en cada proyecto para comprender los objetivos y métodos utilizados.
 
