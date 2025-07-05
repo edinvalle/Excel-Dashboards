@@ -9,8 +9,8 @@ Este repositorio fue creado para proyectos personales utilizando Microsoft Excel
 <table>
   <tr>
     <td align="center">
-        <img src="https://raw.githubusercontent.com/edinvalle/PowerBI-Dashboards/main/Proyecto1/Imagen%201..png" alt="Proyecto 1" style="width: 120px; height: auto;" title="Proyecto 1">
-        <p>Proyecto 1: Análisis de Ventas <a href="https://app.powerbi.com/view?r=eyJrIjoiOGE1ZTRkYzEtMTY5OC00NzQyLWJkZWYtMTJlOGUyOGZjMzRmIiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9" target="_blank">[Ver Proyecto]</a></p>
+        <img src="https://github.com/edinvalle/Excel-Dashboards/blob/main/Proyecto1/ImagenI.png" alt="Proyecto 1" style="width: 120px; height: auto;" title="Proyecto 1">
+        <p>Proyecto 1: Análisis de Ventas <a href="https://1drv.ms/x/c/24f6eec3d061e8ae/EQISrUFWRQxIlEvMlmXnwwQBi3xUPODMFEBSbr44juwdIA?e=njWkro" target="_blank">[Ver Proyecto]</a></p>
     </td>
     <td align="center">
         <img src="https://raw.githubusercontent.com/edinvalle/PowerBI-Dashboards/main/Proyecto2/Imagen%202.png" alt="Proyecto 2" style="width: 120px; height: auto;" title="Proyecto 2">
